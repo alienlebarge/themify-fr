@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Grido\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-10-19 16:01+0530\n"
-"PO-Revision-Date: 2011-12-10 16:55+0100\n"
+"PO-Revision-Date: 2011-12-10 17:01+0100\n"
 "Last-Translator: Cédric Aellen <cedric.aellen@alienlebarge.ch>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: ../comments.php:2
 msgid "This post is password protected. Enter the password to view any comments."
-msgstr "Cet article est protégé par un mot de passe"
+msgstr "Cet article est prot&eacute;g&eacute; par un mot de passe"
 
 #: ../comments.php:21
 msgid "No Comments"
@@ -44,11 +44,11 @@ msgstr "Votre site web"
 #: ../comments.php:73
 #, php-format
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
-msgstr "Connecté en temps que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr "Connect&eacute; en temps que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
 
 #: ../comments.php:74
 msgid "Leave a Reply"
-msgstr "Laisser une réponse"
+msgstr "Laisser une r&eacute;ponse"
 
 #: ../comments.php:77
 msgid "Cancel"
@@ -78,7 +78,7 @@ msgstr "Votre commentaire est en attente de modération"
 #: ../index.php:129
 #: ../index.php:153
 msgid "About"
-msgstr "A propos"
+msgstr "&Agrave; propos"
 
 #: ../index.php:138
 #: ../index.php:162
@@ -87,11 +87,11 @@ msgstr "Ecrit par"
 
 #: ../index.php:171
 msgid "Search Results for:"
-msgstr "Résultat de recherche pour:"
+msgstr "R&eacute;sultat de recherche pour:"
 
 #: ../index.php:226
 msgid "Sorry, nothing found."
-msgstr "Désolé, il n'y a aucun résultat"
+msgstr "D&eacute;sol&eacute;, il n'y a aucun r&eacute;sultat"
 
 #: ../page.php:71
 msgid "404"
@@ -99,7 +99,7 @@ msgstr "404"
 
 #: ../page.php:72
 msgid "Page not found."
-msgstr "Page non trouvée."
+msgstr "Page non trouv&eacute;e."
 
 #: ../page.php:93
 msgid "Pages:"
@@ -129,11 +129,11 @@ msgstr "&laquo; Article plus anciens"
 
 #: ../includes/pagination.php:6
 msgid "Newer Entries &raquo;"
-msgstr "Articles plus récents &raquo;"
+msgstr "Articles plus r&eacute;cents &raquo;"
 
 #: ../themify/themify-widgets.php:403
 msgid "Select Category"
-msgstr "Sélection de la catégorie"
+msgstr "S&eacute;lection de la cat&eacute;gorie"
 
 #: ../themify/themify-widgets.php:871
 #, php-format
